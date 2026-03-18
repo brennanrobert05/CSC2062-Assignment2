@@ -3,7 +3,7 @@ package com.part2.coursework.csc2063.mic1;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-//Test Commit
+
 @RestController
 public class AliveController {
 	@GetMapping("/alive")
